@@ -1,4 +1,4 @@
-## This is a trial "Hello GitHub" Pages
+## This is a trial "Hello GitHub" Page
 
 <H1>You</H1> can use the [editor on GitHub](https://github.com/Fortune8one2/Fortune8one2.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
