@@ -1,6 +1,7 @@
 ## These are trial "Hello GitHub" Pages
 
-<H1>You</H1> can use the [editor on GitHub](https://github.com/Fortune8one2/Fortune8one2.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<H1>Look for pencil icon on the far right and press it to edit</H1>
+You can use the [editor on GitHub](https://github.com/Fortune8one2/Fortune8one2.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
