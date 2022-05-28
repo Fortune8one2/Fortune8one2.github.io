@@ -1,6 +1,6 @@
 ## These are trial "Hello GitHub" Pages
 
-<H1>Look for pencil icon on the far right and press it to edit</H1>
+<H1>Look for pencil icon (love BREAD) on the far right and press it to edit</H1>
 <H2>When changes are made -- do not forget to Commit (scroll down) and Update (2nd thing on code reside line)</H2> 
 You can use the [editor on GitHub](https://github.com/Fortune8one2/Fortune8one2.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
