@@ -4,7 +4,7 @@
 <H2>When changes are made -- do not forget to Commit (scroll down) and Update (2nd thing on code reside line)</H2> 
 You can use the [editor on GitHub](https://github.com/Fortune8one2/Fortune8one2.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown Is a Different Way to Do Classic HTML
 
@@ -59,15 +59,14 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 <img class="img-fluid" src="https://source.unsplash.com/Mn9Fa_wQH-M/800x450" alt="Demo Image">
 <span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
 
-<p>Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.</p>
+## Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.
 
 <p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
 
 <p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://unsplash.com/">Unsplash</a>.</p>
-</body>
+<!-- </body>
 </html>
-
- <!-- /\ end html  -->
+ /\ end html  -->
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Fortune8one2/Fortune8one2.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
