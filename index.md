@@ -3,6 +3,7 @@
 <H1>Look for pencil icon on the far right and press it to edit</H1>
 <H2>When changes are made -- do not forget to Commit (scroll down) and Update (2nd thing on code reside line)</H2> 
 You can use the [editor on GitHub](https://github.com/Fortune8one2/Fortune8one2.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# This Is an H1 kind of headline
 
 ## Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
