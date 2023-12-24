@@ -63,7 +63,8 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ## Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.
 
 <p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
-
+<h1>Go to index.md and then click on the pencil in the upper right hand corner and EDIT the HTML to add new stuff to this file</h1>
+<h1>Don't Forget to Commit CHANGES at the very top right button I need to press</h1>
 <p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://unsplash.com/">Unsplash</a>.</p>
 <!-- </body>
 </html>
