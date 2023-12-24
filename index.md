@@ -65,24 +65,6 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 <p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
 <h1>Go to index.md and then click on the pencil in the upper right hand corner and EDIT the HTML to add new stuff to this file</h1>
 <h1>Don't Forget to Commit CHANGES at the very top right button I need to press</h1>
-<style>
-p.ex1 {
-  font-size: 30px;
-}
-p.ex2 {
-  font-size: 88px;
-}
-</style>
-</head>
-<body>
-
-<p>This is a normal paragraph.</p>
-<p class="ex1">This is a bigger paragraph.</p>
-<p class="ex2">This is a much bigger paragraph.</p>
-<p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://unsplash.com/">Unsplash</a>.</p>
-<!-- </body>
-</html>
- /\ end html  -->
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Fortune8one2/Fortune8one2.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
