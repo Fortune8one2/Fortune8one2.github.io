@@ -12,7 +12,7 @@ div.a {
   font-size: 88px;
 }
 </style>
-<div class="a">This is a test of 88px.</div>
+<div class="a"><B><Bold Is Here/B>This is a test of 88px.</div>
 
 <!--  This is the end of a make font bigger experiment -->
 
